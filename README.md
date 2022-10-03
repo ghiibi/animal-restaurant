@@ -8,7 +8,9 @@ There are several characters that appear in Animal Restaurant. Some are workers,
 1. Gnome
 2. Bald Sheep
 3. White Shiba
-4. Flamingo
-5. Glamarous Lady
+5. Flamingo
+6. Glamarous Lady
+
+![gnome](Gnome.webp "Gnome png")
 
 _filler_
