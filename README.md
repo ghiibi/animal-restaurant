@@ -36,3 +36,8 @@ The White-Color Fox is a dapper, yet impatient customer from the bustling city. 
 Glamarous Lady fashions a leapord print dress with a red scarf and handbag. As a very rare customer, she has a special ability of eating six different dishes and speeds up cooking by 100%. The Glamarous Lady commonly orders Fried Tofu, Sweet Dumplings, Rice Pudding, Pork on Rice, Cold Watermelon, or Sycee Dumplings.
 
 ## Top Five Staff:
+1. Chef Gumi
+2. Deliver Boy Tate and Kat
+3. Fisherman Rabbit Ding
+4. Messenger Hedwig
+5. Temp Worker Yolky
