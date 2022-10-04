@@ -2,13 +2,13 @@
 Gabby's top five favorite customers, staff, and recipes from the Animal Restaurant.
 
 ## Top Five Customers
-_Although there are over 311 customers in Animal Restaurant. Here I only cover the Regulars and Special customers._
+_Although there are over 311 customers in Animal Restaurant, I only cover the Regulars and Special customers._
 
 ### 1. Gnome
 
 ![gnome](Gnome.webp "Gnome - Animal Restaurant")
 
-The gnome is rarely seen and can only be attracted by cooking Fried Rice, Takoyaki, Chocolate Cake, Salmon Sushi, or Kimbap. I particularly like this character due to its whimsical design. 
+The gnome is rarely seen and can only be attracted to the restaurant by cooking Fried Rice, Takoyaki, Chocolate Cake, Salmon Sushi, or Kimbap. I particularly like this character due to its whimsical design. 
 
 ### 2. Granny Wolf
 
