@@ -19,7 +19,7 @@ The Granny Wolf is from the town and commonly orders Roast Shrimp, Fried Shrimp 
 
 White Shiba
 
-![White_Shiba](https://static.wikia.nocookie.net/animalrestaurant/images/6/6f/White_Shiba.png/revision/latest?cb=20200101202321)
+![White_Shiba](whiteshiba.jpg "White Shiba")
 
 The White Shiba is a picky customer from the village area. It commonly orders Mushroom Pasta, Kimbap, Shaved Ice, or Scrambled Eggs & Tomatoes. My personal favorite aspect of this customer is the tongue sticking out detail that gives it its particularly cute aura. 
 
