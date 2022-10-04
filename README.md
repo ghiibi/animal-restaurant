@@ -36,10 +36,34 @@ Glamarous Lady
 Glamarous Lady fashions a leapord print dress with a red scarf and handbag. As a very rare customer, she has a special ability of eating six different dishes and speeds up cooking by 100%. The Glamarous Lady commonly orders Fried Tofu, Sweet Dumplings, Rice Pudding, Pork on Rice, Cold Watermelon, or Sycee Dumplings.
 
 ## Top Five Staff:
-1. Chef Gumi
+Chef Gumi
 
-![Chef_Gumi](
-3. Deliver Boy Tate and Kat
-4. Fisherman Rabbit Ding
-5. Messenger Hedwig
-6. Temp Worker Yolky
+![Chef_Gumi](chefgumi.jpg "Chef Gumi")
+
+Deliver Boy Tate and Deliver Girl Kat
+
+![Deliver_Boy_Tate_and_Deliver_Girl_Kat](57dnlcsuxwi61.webp "Deliver Boy Tate and Deliver Girl Kat")
+
+Fisherman Rabbit Ding
+
+![FishermanRabbitDing](frd.jpg "Fisherman Rabbit Ding")
+
+Messenger Hedwig
+
+![Messenger_Hedwig](mh.jpg "Messenger Hedwig")
+
+Temp Worker Yolky
+
+![Temp_worker_yolky](tw.jpg "Temp Worker Yolky")
+
+### (Bonus!) Top Five Recipes:
+Shaved Ice
+![download](https://user-images.githubusercontent.com/114519107/193739294-794c23ac-f9d6-47ad-85a9-fe37049beb79.png)
+
+Custard Bun
+![custardbun](custardbun.webp "Custard Bun")
+
+Bibimbap
+Fries
+Soy Milk & Cruller
+
