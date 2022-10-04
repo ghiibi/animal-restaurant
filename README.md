@@ -1,4 +1,4 @@
-# Top 5 - Animal Restuarant 
+
 Gabby's top five favorite customers, staff, and recipes from the Animal Restaurant.
 
 ## Top Five Customers
@@ -34,7 +34,7 @@ The White-Color Fox is a dapper, yet impatient customer from the bustling city. 
 
 Glamarous Lady fashions a leapord print dress with a red scarf and handbag. As a very rare customer, she has a special ability of eating six different dishes and speeds up cooking by 100%. The Glamarous Lady commonly orders Fried Tofu, Sweet Dumplings, Rice Pudding, Pork on Rice, Cold Watermelon, or Sycee Dumplings.
 
-## Top Five Staff:
+## Top Five Staff
 _There are a total of 15 possible staff members, each fufilling a different purpose in the restaurant._
 
 ### 1. Chef Gumi
@@ -67,7 +67,7 @@ Messenger Hedwig can carry flowers, seeds, and watering cans and in return bring
 
 The youngest of the staff, Temp Worker Yolky is a hardworking employee for the Buffet who always manages to have boba in its paws.
 
-## (Bonus!) Top Five Recipes:
+## (Bonus!) Top Five Recipes
 _There are three cateogries for the food served in Animal Restaurant: freshly made, buffet, and takeout. This section only covers "Freshly Made"._
 
 ### 1. Shaved Ice
@@ -88,7 +88,7 @@ _There are three cateogries for the food served in Animal Restaurant: freshly ma
 ## Social Media
 To recieve more Animal Restaurant content...
 
-Instagram: [Animal Restaurant (@animal_restaurant)](https://www.instagram.com/animal_restaurant/?hl=en)
+Instagram: [(@animal_restaurant)](https://www.instagram.com/animal_restaurant/?hl=en)
 
-Twitter: [Animal Restaurant (@AML_Restaurant)](https://twitter.com/AML_Restaurant?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+Twitter: [(@AML_Restaurant)](https://twitter.com/AML_Restaurant?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
